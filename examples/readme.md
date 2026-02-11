@@ -185,4 +185,4 @@ card   suit   rank   equals score
      0 C      2             4     
      1 C      8             4     
      2 C      Q      J      4 
-```"# dds" 
+```
